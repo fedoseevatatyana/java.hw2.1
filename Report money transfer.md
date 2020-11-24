@@ -12,7 +12,7 @@
 ## Результаты
 
 1. 100 % неуспешных тестов/ всего 1 тест
-2. Заведено 1 issue
+2. Заведено 1 issue (https://github.com/fedoseevatatyana/java.hw2.1/issues/1)
 
 ## Общие рекомендации
 
